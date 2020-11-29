@@ -1,5 +1,4 @@
-# redstone - a cryptocurrency implementation in less than 1500 lines of code
-
+# redstone protocol implementation
 [![Build Status](https://travis-ci.org/conradoqg/redstone.svg?branch=master)](https://travis-ci.org/conradoqg/redstone) [![Coverage Status](https://coveralls.io/repos/github/conradoqg/redstone/badge.svg?branch=master)](https://coveralls.io/github/conradoqg/redstone?branch=master)
 
 ### Motivation
