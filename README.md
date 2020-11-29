@@ -1,5 +1,4 @@
 # redstone protocol implementation
-[![Build Status](https://travis-ci.org/conradoqg/redstone.svg?branch=master)](https://travis-ci.org/conradoqg/redstone) [![Coverage Status](https://coveralls.io/repos/github/conradoqg/redstone/badge.svg?branch=master)](https://coveralls.io/github/conradoqg/redstone?branch=master)
 
 ### Motivation
 Cryptocurrencies and smart-contracts on top of a blockchain aren't the most trivial concepts to understand, things like wallets, addresses, block proof-of-work, transactions and their signatures, make more sense when they are in a broad context. Inspired by [naivechain](https://github.com/lhartikk/naivechain), this project is an attempt to provide as concise and simple an implementation of a cryptocurrency as possible.
@@ -74,7 +73,7 @@ It's the starting point to interact with the redstone, and every node provides a
 
 From the Swagger UI is possible to access a simple UI to visualize the blockchain and the unconfirmed transactions.
 
-![UI](doc/ui.png)
+
 
 #### Blockchain
 
@@ -516,6 +515,4 @@ If you contribute code to this project, you are implicitly allowing your code
 to be distributed under the Apache 2.0 license. You are also implicitly verifying that
 all code is your original work.
 
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/conradoqg/redstone.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20it%20out%3A%20redstone%20-%20a%20cryptocurrency%20implementation%20in%20less%20than%201500%20lines%20of%20code&url=%5Bobject%20Object%5D)
 
-[![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/conradoqg/redstone/master/LICENSE)
