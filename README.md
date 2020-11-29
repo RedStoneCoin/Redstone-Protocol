@@ -499,7 +499,7 @@ Options:
 
 ```sh
 # Cloning repository
-$ git clone git@github.com:conradoqg/redstone.git
+$ git clone git@github.com:RedStoneCoin/Redstone-Protocol.git
 $ cd redstone
 $ npm install
 
