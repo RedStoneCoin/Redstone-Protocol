@@ -3,6 +3,7 @@ const supertest = require('supertest');
 const assert = require('assert');
 const HttpServer = require('../lib/httpServer');
 const Blockchain = require('../lib/blockchain');
+const Blockchain = require('../lib/blockchain2'); //add blockchain 2 to test
 const Operator = require('../lib/operator');
 const Miner = require('../lib/miner');
 const Node = require('../lib/node');
